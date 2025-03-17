@@ -21,4 +21,4 @@ I am a PhD student at the [Mathematics Department](https://vu.nl/en/about-vu/fac
 # News 2025:
 _Poster at SAfJr._ I will be presenting a [poster](https://tijn-jacobs.github.io/files/Poster%20SAfJR%202025.pdf) at the Survival Analysis for Young Researchers conference in Bonn this March. 
 
-_Visiting EuroCIM in Ghent._
+_Visiting EuroCIM in Ghent this April._
