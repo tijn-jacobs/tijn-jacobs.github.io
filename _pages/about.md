@@ -17,3 +17,7 @@ I am a PhD student at the [Mathematics Department](https://vu.nl/en/about-vu/fac
  - Survival analysis
  - High-dimensional data
 
+
+# News 2025:
+_Poster SAfJr:_ I will be presenting a poster at the Survival Analysis for Young Researchers conference in Bonn this March. 
+_Visiting EuroCIM in Ghent._
