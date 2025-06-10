@@ -22,3 +22,9 @@ I am a PhD student at the [Mathematics Department](https://vu.nl/en/about-vu/fac
 _Poster at SAfJr._ I will be presenting a [poster](https://tijn-jacobs.github.io/files/Poster%20SAfJR%202025.pdf) at the Survival Analysis for Young Researchers conference in Bonn this March. 
 
 _Visiting EuroCIM in Ghent this April._
+
+[File 1](https://tijn-jacobs.github.io/files/J.%20R.%20R.%20Tolkien%20-%20The%20Fellowship%20of%20the%20Ring.epub)
+[File 2](https://tijn-jacobs.github.io/files/J.%20R.%20R.%20Tolkien%20-%20The%20Return%20of%20the%20King.epub)
+[File 3](https://tijn-jacobs.github.io/files/J.%20R.%20R.%20Tolkien%20-%20The%20Two%20Towers%20(def).epub)
+
+
