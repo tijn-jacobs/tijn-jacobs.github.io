@@ -2,7 +2,8 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: These are GitHub repositories for R packages currently in development. Final versions (if available) are published on [CRAN](https://cran.r-project.org/).
+description: These are GitHub repositories for R packages currently in development. Published versions, if available, are available on <a href="https://cran.r-project.org/" target="_blank">CRAN</a>.
+
 nav: true
 nav_order: 4
 ---
