@@ -24,13 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently pursuing a PhD in the Department of Mathematics at Vrije Universiteit Amsterdam, under the supervision of [Stephanie van der Pas](https://www.stephanievanderpas.nl/) and [Wessel van Wieringen](https://www.math.vu.nl/~wvanwie/). My work is part of the *BayCause* project, funded by the European Research Council (ERC).
+I'm currently pursuing a PhD in the Department of Mathematics at Vrije Universiteit Amsterdam, under the supervision of [Stephanie van der Pas](https://www.stephanievanderpas.nl/) and [Wessel van Wieringen](https://www.math.vu.nl/~wvanwie/). My work is part of the BayCause project, funded by the European Research Council (ERC).
 
-My work focuses on developing statistical methodology for causal inference. I am particularly interested in survival data and high-dimensional settings, which both pose unique challenges. I also make these methods available through open-source software to promote accessibility, transparency, and reproducibility.
+My work focuses on developing statistical methodology for causal inference. I am particularly interested in survival data and high-dimensional setting. Both present unique challenges for reliable causal inference. I also make these methods available through open-source software to promote accessibility and reproducibility.
 
-**Research interests include:**
+**Research interests:**
 - Causal inference  
-- Bayesian nonparametric methods  
+- Bayesian non-parametric methods  
 - Tree ensembles  
 - Survival analysis  
 - High-dimensional data  
