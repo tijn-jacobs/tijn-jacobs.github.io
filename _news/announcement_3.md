@@ -16,7 +16,7 @@ SAfJR brings together early-career researchers working in survival analysis and 
 - Contributed talks and poster sessions  
 - Social and networking activities
 
-More information is available on the [conference website](https://www.safjr.org/) or in the [conference poster](assets/files/Poster_SAfJR2026.pdf).
+More information is available on the [conference website](https://www.safjr.org/) or in the [conference poster](assets/pdf/Poster_SAfJR2026.pdf).
 
 If you're interested in sponsoring the event, showcasing your logo, or exploring collaboration opportunities, feel free to contact me via email.
 
