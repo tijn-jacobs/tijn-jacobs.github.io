@@ -4,8 +4,7 @@ permalink: /repositories/
 title: repositories
 description: >
   These are GitHub repositories for R packages currently in development.
-  Published versions, if available, are available on
-  <a href="https://cran.r-project.org/">CRAN</a>.
+  Published versions, if available, are available on CRAN.
 
 
 nav: true
