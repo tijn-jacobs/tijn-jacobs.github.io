@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 
-**New preprint on [arXiv](https://arxiv.org/abs/2507.22004)!**  
+**New preprint on [arXiv](https://arxiv.org/abs/2507.22004)**  
 We develop a Bayesian tree ensemble model for causal inference in high-dimensional survival data.

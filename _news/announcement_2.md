@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-**ShrinkageTrees is now on [CRAN](https://cran.r-project.org/web/packages/ShrinkageTrees/index.html)!**  
+**ShrinkageTrees is now on [CRAN](https://cran.r-project.org/web/packages/ShrinkageTrees/index.html)**  
 It implements Bayesian tree ensembles with global-local shrinkage priors. Check out the source code on [GitHub](https://github.com/tijn-jacobs/ShrinkageTrees).
