@@ -393,15 +393,18 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+      },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-co-organising-safjr-2026",
+              window.location.href = "/news/TEST/";
+            },},{id: "news-the-package-shrinkagetrees-is-now-available-on-cran",
+          title: 'The package ShrinkageTrees is now available on CRAN.',
+          description: "",
+          section: "News",},{id: "news-paper-on-arxiv",
+          title: 'Paper on arXiv!',
+          description: "",
+          section: "News",},{id: "news-i-am-co-organising-safjr-2026",
           title: 'I am co-organising SAfJR 2026!',
           description: "",
           section: "News",},{id: "projects-project-1",
