@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I am co-organising SAfJR 2026
-date: 2026-03-25 09:00:00
+date: 2026-03-25 16:11:00-0400
 inline: false
 related_posts: false
 ---
