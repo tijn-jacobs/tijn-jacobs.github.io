@@ -393,7 +393,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-shrinkagetrees-is-now-on-cran-it-implements-bayesian-tree-ensembles-with-global-local-shrinkage-priors-check-out-the-source-code-on-github",
+      },{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/test/";
+            },},{id: "news-shrinkagetrees-is-now-on-cran-it-implements-bayesian-tree-ensembles-with-global-local-shrinkage-priors-check-out-the-source-code-on-github",
           title: 'ShrinkageTrees is now on CRAN It implements Bayesian tree ensembles with global-local shrinkage...',
           description: "",
           section: "News",},{id: "news-new-preprint-on-arxiv-we-develop-a-bayesian-tree-ensemble-model-for-causal-inference-in-high-dimensional-survival-data",
