@@ -5,7 +5,7 @@ title: repositories
 description: >
   These are GitHub repositories for R packages currently in development.
   Published versions, if available, are available on
-  <a href="https://cran.r-project.org/" target="_blank">CRAN</a>.
+  <a href="https://cran.r-project.org/">CRAN</a>.
 
 
 nav: true
