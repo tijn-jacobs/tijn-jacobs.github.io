@@ -394,13 +394,13 @@ ninja.data = [{
           
         },
       },{id: "news-shrinkagetrees-is-now-on-cran-it-implements-bayesian-tree-ensembles-with-global-local-shrinkage-priors-check-out-the-source-code-on-github",
-          title: 'ShrinkageTrees is now on CRAN! It implements Bayesian tree ensembles with global-local shrinkage...',
+          title: 'ShrinkageTrees is now on CRAN It implements Bayesian tree ensembles with global-local shrinkage...',
           description: "",
           section: "News",},{id: "news-new-preprint-on-arxiv-we-develop-a-bayesian-tree-ensemble-model-for-causal-inference-in-high-dimensional-survival-data",
-          title: 'New preprint on arXiv! We develop a Bayesian tree ensemble model for causal...',
+          title: 'New preprint on arXiv We develop a Bayesian tree ensemble model for causal...',
           description: "",
           section: "News",},{id: "news-i-am-co-organising-safjr-2026",
-          title: 'I am co-organising SAfJR 2026!',
+          title: 'I am co-organising SAfJR 2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
