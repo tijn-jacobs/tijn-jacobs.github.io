@@ -393,8 +393,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+      },{id: "news-i-am-co-organising-safjr-2026",
+          title: 'I am co-organising SAfJR 2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/test/";
