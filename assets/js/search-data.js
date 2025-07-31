@@ -393,21 +393,18 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+      },{id: "news-shrinkagetrees-is-now-on-cran-it-implements-bayesian-tree-ensembles-with-global-local-shrinkage-priors-check-out-the-source-code-on-github",
+          title: 'ShrinkageTrees is now on CRAN! It implements Bayesian tree ensembles with global-local shrinkage...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/TEST/";
-            },},{id: "news-the-package-shrinkagetrees-is-now-available-on-cran",
-          title: 'The package ShrinkageTrees is now available on CRAN.',
-          description: "",
-          section: "News",},{id: "news-paper-on-arxiv",
-          title: 'Paper on arXiv!',
+          section: "News",},{id: "news-new-preprint-on-arxiv-we-develop-a-bayesian-tree-ensemble-model-for-causal-inference-in-high-dimensional-survival-data",
+          title: 'New preprint on arXiv! We develop a Bayesian tree ensemble model for causal...',
           description: "",
           section: "News",},{id: "news-i-am-co-organising-safjr-2026",
           title: 'I am co-organising SAfJR 2026!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
