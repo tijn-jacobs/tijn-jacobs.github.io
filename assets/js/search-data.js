@@ -394,7 +394,7 @@ ninja.data = [{
           
         },
       },{id: "news-i-am-co-organising-safjr-2026",
-          title: 'I am co-organising SAfJR 2026',
+          title: 'I am co-organising `SAfJR 2026`',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/test/";
