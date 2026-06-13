@@ -7,7 +7,7 @@ description: >
   Published versions, if available, are available on CRAN.
 
 
-nav: true
+nav: false
 nav_order: 4
 ---
 
