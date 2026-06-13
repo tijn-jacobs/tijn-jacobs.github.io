@@ -28,11 +28,11 @@ I'm currently pursuing a PhD in the Department of Mathematics at Vrije Universit
 
 I develop statistical methodology for causal inference, with a focus on survival data and high-dimensional settings. Both pose unique challenges to reliable causal effect estimation. I aim to make my methods accessible through open-source software.
 
-
 **Research interests:**
-- Causal inference  
-- Bayesian non-parametric methods  
-- Tree ensembles  
-- Survival analysis  
-- High-dimensional data  
+
+- Causal inference
+- Bayesian non-parametric methods
+- Tree ensembles
+- Survival analysis
+- High-dimensional data
 - Data fusion

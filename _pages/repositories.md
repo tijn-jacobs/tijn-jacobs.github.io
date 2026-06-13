@@ -6,7 +6,6 @@ description: >
   These are GitHub repositories for R packages currently in development.
   Published versions, if available, are available on CRAN.
 
-
 nav: false
 nav_order: 4
 ---
