@@ -36,3 +36,5 @@ I develop statistical methodology for causal inference, with a focus on survival
 - Survival analysis
 - High-dimensional data
 - Data fusion
+
+You can find me at a few conferences this year: [ISBA](https://events.conf.app/event/fe1bf927-baa2-4933-9e99-2efcafa0fcdd/agenda/5b1d54a5-ecfd-4ca3-bda9-5eb1fea63a94) in Nagoya, Japan; [UAI](https://www.auai.org/uai2026/) in Amsterdam, NL; [ISCB](https://iscbgmds2026.info/) in Freiburg, Germany; and [Bayesian Biostatistics](https://www.bayes-pharma.org/) in Leiden, NL.
