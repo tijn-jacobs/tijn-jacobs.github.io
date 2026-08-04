@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-statistics-seminar",
           title: "Statistics Seminar",
-          description: "The Statistics Seminar of the Department of Mathematics at Vrije Universiteit Amsterdam, which I organize.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/statistics-seminar/";
