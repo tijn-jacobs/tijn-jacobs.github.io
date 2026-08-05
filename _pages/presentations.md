@@ -11,6 +11,7 @@ nav_order: 2
 
 ## Talks & presentations
 
+- **"Horseshoe Forests for High-Dimensional Causal Survival Analysis."** ISBA World Meeting, Nagoya, Japan. July 2026. [[slides]](/assets/pdf/isba-2026.pdf)
 - **"Horseshoe Forests for High-Dimensional Causal Survival Analysis."** Seminar, Mathematical Institute, Leiden University. May 2026. [[slides]](/assets/pdf/leiden-seminar-2026.pdf)
 - **"A Martingale Framework for Survival Tests."** Seminar, Bigstatistics Group, Department of Epidemiology and Data Science, Amsterdam UMC. May 2026. [[slides]](/assets/pdf/bigstatistics-seminar-2026.pdf)
 - **"Horseshoe Forests for High-Dimensional Causal Survival Analysis."** Statistics Group, VU Amsterdam. April 2026. [[slides]](/assets/pdf/vu-seminar-2026.pdf)
