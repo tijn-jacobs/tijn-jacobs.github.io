@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/presentations/";
           },
         },{id: "nav-statistics-seminar",
-          title: "Statistics Seminar",
+          title: "statistics seminar",
           description: "",
           section: "Navigation",
           handler: () => {
