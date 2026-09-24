@@ -22,23 +22,23 @@ contact me.
 
 ## Upcoming seminars
 
-| Date              | Time                   | Speaker                                                                                    |
-| :---------------- | :--------------------- | :----------------------------------------------------------------------------------------- |
-| 23 September 2026 | Wednesday 11:00        | [Sebastian Arnold](https://www.cwi.nl/en/people/sebastian-arnold/)                         |
-| 6 October 2026    | Tuesday 16:00 + drinks | [Camilla Damian](https://research.vu.nl/en/persons/camilla-damian/)                        |
-| 21 October 2026   | Wednesday 11:00        | [Alexander Dürre](https://www.universiteitleiden.nl/en/staffmembers/alexander-durre#tab-1) |
-| 10 November 2026  | Tuesday 16:00 + drinks | TBD                                                                                        |
-| 25 November 2026  | Wednesday 11:00        | [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman)             |
-| 8 December 2026   | Tuesday 16:00 + drinks | [Frank van der Meulen](https://fmeulen.github.io/)                                         |
-| 16 December 2026  | Wednesday 11:00        | [Stéphanie van der Pas](https://www.stephanievanderpas.nl/)                                |
-| 20 January 2027   | Wednesday 11:00        | TBD                                                                                        |
-| 9 February 2027   | Tuesday 16:00 + drinks | [Aafko Boonstra](https://research.vu.nl/en/persons/aafko-boonstra/)                        |
-| 24 February 2027  | Wednesday 11:00        | TBD                                                                                        |
+| Date             | Time                   | Speaker                                                                                    |
+| :--------------- | :--------------------- | :----------------------------------------------------------------------------------------- |
+| 6 October 2026   | Tuesday 16:00 + drinks | [Camilla Damian](https://research.vu.nl/en/persons/camilla-damian/)                        |
+| 21 October 2026  | Wednesday 11:00        | [Alexander Dürre](https://www.universiteitleiden.nl/en/staffmembers/alexander-durre#tab-1) |
+| 10 November 2026 | Tuesday 16:00 + drinks | TBD                                                                                        |
+| 25 November 2026 | Wednesday 11:00        | [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman)             |
+| 8 December 2026  | Tuesday 16:00 + drinks | [Frank van der Meulen](https://fmeulen.github.io/)                                         |
+| 16 December 2026 | Wednesday 11:00        | [Stéphanie van der Pas](https://www.stephanievanderpas.nl/)                                |
+| 20 January 2027  | Wednesday 11:00        | TBD                                                                                        |
+| 9 February 2027  | Tuesday 16:00 + drinks | [Aafko Boonstra](https://research.vu.nl/en/persons/aafko-boonstra/)                        |
+| 24 February 2027 | Wednesday 11:00        | [Juan Juan Cai](https://juanjuancai.com/)                                                  |
 
 <br>
 
 ## Past seminars
 
-| Date             | Time                   | Speaker                                                |
-| :--------------- | :--------------------- | :----------------------------------------------------- |
-| 8 September 2026 | Tuesday 16:00 + drinks | [Niklas Dexheimer](https://niklasdexheimer.github.io/) |
+| Date              | Time                   | Speaker                                                            |
+| :---------------- | :--------------------- | :----------------------------------------------------------------- |
+| 23 September 2026 | Wednesday 11:00        | [Sebastian Arnold](https://www.cwi.nl/en/people/sebastian-arnold/) |
+| 8 September 2026  | Tuesday 16:00 + drinks | [Niklas Dexheimer](https://niklasdexheimer.github.io/)             |
