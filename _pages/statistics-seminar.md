@@ -24,7 +24,7 @@ contact me.
 
 | Date             | Time                   | Speaker                                                                                    |
 | :--------------- | :--------------------- | :----------------------------------------------------------------------------------------- |
-| 6 October 2026   | Tuesday 16:00 + drinks | [Camilla Damian](https://research.vu.nl/en/persons/camilla-damian/)                        |
+| 6 October 2026   | Tuesday 16:00 + drinks | [Camilla Damian]( https://camilladamian.github.io/)                        |
 | 21 October 2026  | Wednesday 11:00        | [Alexander Dürre](https://www.universiteitleiden.nl/en/staffmembers/alexander-durre#tab-1) |
 | 10 November 2026 | Tuesday 16:00 + drinks | TBD                                                                                        |
 | 25 November 2026 | Wednesday 11:00        | [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman)             |
