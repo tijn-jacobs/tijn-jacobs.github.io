@@ -738,6 +738,14 @@ footer.sticky-bottom {
       .preview {
       }
 
+      // Transparent hex logos: shadow follows the hex outline, not the image box
+      .preview-hex {
+        display: block;
+        width: 75%;
+        margin: 0 auto;
+        filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+      }
+
       .abbr {
         margin-bottom: 0.5rem;
 

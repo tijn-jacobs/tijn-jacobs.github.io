@@ -24,7 +24,6 @@ contact me.
 
 | Date             | Time                   | Speaker                                                                                    |
 | :--------------- | :--------------------- | :----------------------------------------------------------------------------------------- |
-| 6 October 2026   | Tuesday 16:00 + drinks | [Camilla Damian]( https://camilladamian.github.io/)                        |
 | 21 October 2026  | Wednesday 11:00        | [Alexander Dürre](https://www.universiteitleiden.nl/en/staffmembers/alexander-durre#tab-1) |
 | 10 November 2026 | Tuesday 16:00 + drinks | TBD                                                                                        |
 | 25 November 2026 | Wednesday 11:00        | [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman)             |
@@ -40,5 +39,6 @@ contact me.
 
 | Date              | Time                   | Speaker                                                            |
 | :---------------- | :--------------------- | :----------------------------------------------------------------- |
+| 6 October 2026    | Tuesday 16:00 + drinks | [Camilla Damian](https://camilladamian.github.io/)                 |
 | 23 September 2026 | Wednesday 11:00        | [Sebastian Arnold](https://www.cwi.nl/en/people/sebastian-arnold/) |
 | 8 September 2026  | Tuesday 16:00 + drinks | [Niklas Dexheimer](https://niklasdexheimer.github.io/)             |
