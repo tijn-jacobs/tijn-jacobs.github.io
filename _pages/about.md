@@ -31,8 +31,7 @@ I develop statistical methodology for causal inference, with a focus on survival
 **Research interests:**
 
 - Causal inference
-- Bayesian non-parametric methods
-- Tree ensembles
 - Survival analysis
+- Bayesian nonparametric methods and tree ensembles
 - High-dimensional data
-- Data fusion
+- Data fusion and borrowing methods
