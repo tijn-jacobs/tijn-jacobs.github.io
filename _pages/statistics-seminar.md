@@ -30,6 +30,14 @@ contact me.
 | 20 January 2027  | Wednesday 11:00        | TBD                                                                            |
 | 9 February 2027  | Tuesday 16:00 + drinks | [Aafko Boonstra](https://research.vu.nl/en/persons/aafko-boonstra/)            |
 | 24 February 2027 | Wednesday 11:00        | [Juan Juan Cai](https://juanjuancai.com/)                                      |
+| 9 March 2027     | Tuesday 16:00 + drinks | TBD                                                                            |
+| 24 March 2027    | Wednesday 11:00        | TBD                                                                            |
+| 6 April 2027     | Tuesday 16:00 + drinks | TBD                                                                            |
+| 21 April 2027    | Wednesday 11:00        | TBD                                                                            |
+| 11 May 2027      | Tuesday 16:00 + drinks | TBD                                                                            |
+| 26 May 2027      | Wednesday 11:00        | TBD                                                                            |
+| 16 June 2027     | Wednesday 11:00        | TBD                                                                            |
+| 29 June 2027     | Tuesday 16:00 + drinks | TBD                                                                            |
 
 <br>
 
