@@ -31,7 +31,7 @@ contact me.
 | 24 February 2027 | Wednesday 11:00        | [Juan Juan Cai](https://juanjuancai.com/)                                                                    |
 | 9 March 2027     | Tuesday 16:00 + drinks | [Lukas Trottner](https://lukastrottner.github.io/)                                                           |
 | 24 March 2027    | Wednesday 11:00        | TBD                                                                                                          |
-| 6 April 2027     | Tuesday 16:00 + drinks | TBD                                                                                                          |
+| 6 April 2027     | Tuesday 16:00 + drinks | [Nadja Rutsch](https://nadjarutsch.github.io/)                                                               |
 | 21 April 2027    | Wednesday 11:00        | TBD                                                                                                          |
 | 11 May 2027      | Tuesday 16:00 + drinks | TBD                                                                                                          |
 | 26 May 2027      | Wednesday 11:00        | TBD                                                                                                          |
